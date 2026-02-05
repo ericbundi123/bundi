@@ -1,7 +1,8 @@
 #list datastruture
 fruits=["apple","banana","mango"]
+x , y , z = fruits
 print(fruits)
-fruits[1]="apple"
+fruits[1]="mango"
 print(f"ilove eating {fruits[1]}")
 
 #list is ordered
